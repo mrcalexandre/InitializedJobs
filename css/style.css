@@ -249,3 +249,10 @@ h1 {
 .openlistings {
 	margin-left: 30px;
 }
+
+
+
+.container {
+	margin-right: auto;
+	margin-left: auto;
+}
