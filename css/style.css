@@ -26,7 +26,6 @@ body {
 
 .hovereffect {
 	background: white;
-	/*border: 0.5px ridge black;*/
 	border-radius: 5px;
 	cursor: pointer;
 	width: 300px;
